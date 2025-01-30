@@ -14,6 +14,6 @@ A simple React counter application that allows users to increment, decrement, re
 
 1. Clone this repository:
 
-git clone:https://github.com/NikitaMane12/CounterApplication.git
-cd :counterApplication
+git clone:https://github.com/NikitaMane12/CounterApplication.git<br/>
+cd :counterApplication<br/>
 npm install
